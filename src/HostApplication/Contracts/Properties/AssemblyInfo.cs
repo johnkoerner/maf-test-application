@@ -1,4 +1,4 @@
-﻿using PipelineHints;
+﻿
 using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
@@ -37,7 +37,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyFileVersion("1.0.0.0")]
 
 
+/*
 [assembly: SegmentAssemblyName(PipelineSegment.AddInView, "AddInView")]
 [assembly: SegmentAssemblyName(PipelineSegment.AddInSideAdapter, "AddInAdapter")]
 [assembly: SegmentAssemblyName(PipelineSegment.HostView, "HostView")]
 [assembly: SegmentAssemblyName(PipelineSegment.HostSideAdapter, "HostAdapter")]
+*/
