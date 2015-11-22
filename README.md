@@ -1,2 +1,2 @@
 # maf-test-application
-Sample code to test the System.Addin framework.
+Test Application for System.Addin aka Managed Addin Framework.
